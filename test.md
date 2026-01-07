@@ -1,4 +1,4 @@
-##### _If you want to see this page in ENGLISH,Please click [HERE](#tybobs-homepageenglish)._
+##### _If you want to see this page in ENGLISH,Please click [HERE](https://github.com/test#tybobs-homepageenglish)._
 
 # tybob's HOMEPAGE ![](img/bird2.png)
 
